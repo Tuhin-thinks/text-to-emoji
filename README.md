@@ -1,4 +1,5 @@
 Progress Stage: <em><strong>Basic</strong></em>
+
 useful link: [emoji-details](http://www.unicode.org/reports/tr51/)
 ## <u>Files</u>:
 - emoji-sequences.txt
